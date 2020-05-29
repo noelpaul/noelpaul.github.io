@@ -1,13 +1,27 @@
 body {
-  background-color: #fff;
+  background-color:#80b3ff;
   
 }
 h1{
+  background-color:gold;
   text-align: center;
   color:0099ff;
+}
+h3{
+  color: #cc9900
+  background-color:orangered;
+}
+button{
+  color: skyblue;
+  background-color:#66ff99;
+}
+h2{
+  background-color:blue;
+  opacity: 0.4;
+  color: gold;
 }
 p{
   font-family:verdana;
   font-size: 30px;
   background-color:skyblue;
-  color: #edf
+  color: brown
