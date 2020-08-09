@@ -7,15 +7,12 @@ h1{
   text-align: center;
   color:#66ff66;
 }
-h3{
-  color: #66ff66;
-  background-color:;
-}
+
 button{
   color: white;
   background-color:#66ff66;
 }
 p{
-  font-family:verdana;
   font-size: 18px;
+  color: red
 }
