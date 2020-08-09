@@ -5,24 +5,17 @@ body {
 h1{
   background-color:gold;
   text-align: center;
-  color:0099ff;
+  color:#66ff66;
 }
 h3{
-  color: #cc9900;
-  background-color:orange;
+  color: #66ff66;
+  background-color:;
 }
 button{
-  color: skyblue;
-  background-color:#66ff99;
-}
-h2{
-  background-color:blue;
-  opacity: 0.4;
-  color: gold;
+  color: white;
+  background-color:#66ff66;
 }
 p{
   font-family:verdana;
-  font-size: 30px;
-  background-color:skyblue;
-  color: brown;
+  font-size: 18px;
 }
