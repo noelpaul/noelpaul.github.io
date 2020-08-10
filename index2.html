@@ -10,9 +10,10 @@
     body  {background-color:rgb(205,187,200);}
     a {border: 3px solid #66ff66;
       font-family: courier;
+      }
+    button{border: 3px solid blue;
       
     }
-  
     </style>
     
 </head>
@@ -27,6 +28,12 @@
     href="https://m.youtube.com/">see videos from YouTube</a>
     
   <p>click up to see videos<mark> ⬆⬆️</mark> </p>
+  
+    <button style="background-color:  powderblue;"
+    type="button" onclick="document.getElementById('date,time').innerHTML = Date()">
+      Click me to display Date and Time.</button>
+    <p id="date,time" style="color:blue;"></p>
+  
 </body>
 
 </html>
