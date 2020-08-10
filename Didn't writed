@@ -1,4 +1,19 @@
-*<br>
-*style="font-size:;"
-*style="font-family:;"
+<br>
+style="font-size:;"
+style="font-family:;"
 font-family=example-verdana, courtier
+<b></b>
+<strong></strong>
+<em></em>
+<small></small>
+<del></del>
+didn't understand-<abbr></abbr>,
+<cite></cite>
+<!--comments-->
+style="border:;"
+border
+padding
+margin
+
+
+
