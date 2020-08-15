@@ -1,2 +1,0 @@
-# noelpaul.github.io
-Learning
